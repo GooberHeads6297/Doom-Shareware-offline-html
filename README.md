@@ -8,6 +8,6 @@ ______________________________
 
 ## Offline Compatable
 ______________________________
-I compiled Doom and the Js-dosbox emulator down into a small HTML file that can be run completely offline with no server compatability or anything. All you ahve to do is run the HTML file adn you can simply play Doom!
+I compiled Doom and the Js-dosbox emulator down into a small HTML file that can be run completely offline with no server compatability or anything. All you have to do is run the HTML file and you can simply play Doom!
 
 Just a reminder this is the shareware version of Doom, so if you legally own the game you can change the references for the game for it to match with your *legally* owned version of the game. 
